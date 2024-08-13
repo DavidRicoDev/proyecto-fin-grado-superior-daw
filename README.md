@@ -1,0 +1,4 @@
+Proyecto fin de grado consiste en una página web, donde navegar y adquirir los productos deportivos con los que contaremos de nuestra tienda. Cuenta con:
+- Gestión de clientes, contando con una base de datos en la que, mediante previo registro (usuario y password), tendremos un control de los clientes que acceden y están registrados en nuestra web, requisito fundamental para acceder a ella, navegar y realizar las compras.
+- Gestión y control de ventas. Contaremos con una base de datos donde registraremos dichas ventas, las cuales emitirán una factura que podremos visualizar y tener un control del cliente que realiza la compra, prductos de ésta y precio total de dicha venta, teniendo un control de éstas, pudiendo filtrar productos más y menos vendidos.
+- Stock de productos. Mediante una base de datos llevaremos un control de productos y stocks de éstos.
